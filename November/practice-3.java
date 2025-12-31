@@ -1,0 +1,3 @@
+@SpringBootTest
+@AutoConfigureMockMvc
+class UserControllerTest { ... }
